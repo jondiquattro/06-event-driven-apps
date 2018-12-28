@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "jest": "^23.6.0",
+    "travis": "^0.1.1",
     "util": "^0.11.1"
   }
 }
